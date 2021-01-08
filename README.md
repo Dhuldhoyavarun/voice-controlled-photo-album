@@ -11,5 +11,5 @@ Tools & AWS Services Used: [API Gateway](https://aws.amazon.com/api-gateway/), [
 ## System Architecture & Workflow
 
 <p align="center">
-  <img src="https://github.com/Dhuldhoyavarun/voice_controlled_photo_album/blob/main/backend/Architecture.PNG" width='700' title="Architecture">
+  <img src="https://github.com/Dhuldhoyavarun/voice_controlled_photo_album/blob/main/Backend/Architecture.PNG" width='700' title="Architecture">
 </p>
